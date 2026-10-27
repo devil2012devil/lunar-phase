@@ -6,9 +6,9 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/ngocjohn/lunar-phase",
+  "documentation": "https://github.com/devil2012devil/lunar-phase",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/ngocjohn/lunar-phase/issues",
+  "issue_tracker": "https://github.com/devil2012devil/lunar-phase/issues",
   "requirements": [
     "ephem==4.1.6"
   ],
